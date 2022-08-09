@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    /* background-image: linear-gradient(to top right, red, yellow, green); */
+        background-image: linear-gradient( red, yellow 10%, green 20%);
+
+    /* background-image: linear-gradient(to  right, rgba(255, 0, 0, 0.5), rgba(255, 0,0, .1), green); */
+    display: flex;
+    justify-content: center;
+}
